@@ -7,3 +7,10 @@ print([0,1,2]+[3,4,5])
 
 comma_separated = ",".join(friends)
 print(comma_separated)
+
+#slicing list
+
+# list comprehension 
+
+lower_name = [name.lower() for name in friends]
+print(lower_name)
