@@ -8,3 +8,4 @@ class Student:
     
 ts = Student("Alice", 20)
 # print(ts.name)
+print(__name__)

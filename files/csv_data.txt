@@ -1,0 +1,4 @@
+name,age,university,degree
+Rajesh,25,MIT,Computer Science
+Anita,23,Stanford,Mathematics
+Vikram,27,Harvard,Physics   
