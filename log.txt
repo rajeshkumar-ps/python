@@ -1,0 +1,4 @@
+14-11-25 07:03:03  INFO     [app.py:10] Logging is set up.
+14-11-25 07:03:03  WARNING  [app.py:11] This is a warning message.
+14-11-25 07:03:03  ERROR    [app.py:12] This is an error message.
+14-11-25 07:03:03  CRITICAL [app.py:13] This is a critical message.
